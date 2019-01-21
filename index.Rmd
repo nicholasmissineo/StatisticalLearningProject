@@ -1,0 +1,6 @@
+---
+title: "Nic's Website"
+output: html_document
+---
+
+Hi everybody!
